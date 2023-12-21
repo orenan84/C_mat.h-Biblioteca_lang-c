@@ -15,6 +15,7 @@
   Após isso use as funções da biblioteca adequadamente
  </li>
 </ol>
+
 ## Funcionalidades
 
 A biblioteca fornece uma variedade de funções úteis para realizar operações matemáticas e outras tarefas. Aqui estão descritas as principais funcionalidades da biblioteca:
