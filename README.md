@@ -1,6 +1,20 @@
 
 # Documentação da Biblioteca
-
+## Como usar?
+<ol>
+ <li>
+  Baixe o arquivo da biblioteca
+ </li>
+ <li>
+  Inclua o arquivo da biblioteca no seu código: 
+   <pre>
+  #include "c_mat.h"
+</pre>
+ </li>
+ <li>
+  Após isso use as funções da biblioteca adequadamente
+ </li>
+</ol>
 ## Funcionalidades
 
 A biblioteca fornece uma variedade de funções úteis para realizar operações matemáticas e outras tarefas. Aqui estão descritas as principais funcionalidades da biblioteca:
