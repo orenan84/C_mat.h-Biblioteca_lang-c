@@ -1,7 +1,7 @@
 
 # Documentação da Biblioteca
 ## O que é? 
- Trata-se de uma biblioteca de minha autoria, que apenas com os usos das estruturas de repetição de condição (if, else, while, for), e operações básicas (+ , - , /, *) calcula coisas mais complexas como raízes e tamanho de uma string, assim como, verifica se um número é primo.
+ Trata-se de uma biblioteca de minha autoria, que apenas com o uso das estruturas de repetição e condição (if, else, while, for), assim como de operações básicas (+ , - , /, *) é capaz de calcular coisas mais complexas como raízes, tamanho de uma string, assim como, verificar se um número é primo.
 ## Como usar?
 <ol>
  <li>
