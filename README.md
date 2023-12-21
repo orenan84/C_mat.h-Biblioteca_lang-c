@@ -1,7 +1,7 @@
 
 # Documentação da Biblioteca
 ## O que é? 
- Trata-se de uma biblioteca de minha autoria, que apenas com os usos das condições conhecidas (if, else, while, for), e operações básicas (+ , - , /, *) calcular coisas mais complexas como raízes e tamanho de uma string. 
+ Trata-se de uma biblioteca de minha autoria, que apenas com os usos das estruturas de repetição de condição (if, else, while, for), e operações básicas (+ , - , /, *) calcula coisas mais complexas como raízes e tamanho de uma string, assim como, verifica se um número é primo.
 ## Como usar?
 <ol>
  <li>
@@ -57,7 +57,7 @@ Esta função retorna o tamanho de uma string passada como parâmetro.
 
 #### `int verificarPrimo(int n)`
 
-Esta função verifica se um número \(n\) é primo.
+Esta função verifica se um número \(n\) é primo. Ela retorna 0 para não primos e 1 para números primos. 
 
 #### `int somarVetor(int *vetor, int tamanho)`
 
