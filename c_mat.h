@@ -1,4 +1,4 @@
-// FUNCÕES PARA EXTRAÇÃO DE RAÍZES:
+// FUNÇÕES PARA EXTRAÇÃO DE RAÍZES:
 double processarFuncao(double x, double valor) {
     return x * x - valor;
 }
@@ -116,7 +116,7 @@ int somarIntervalo(int a, int b){
     }
 }
     
-// FUNÇÃO RETORNA VALOR DA HIPOTENUSA A PARTIR DOS CATETOS
+// FUNÇÃO RETORNA VALOR DA HIPOTENUSA A PARTIR DOS CATETOS DE UM TRIÂNGULO RETÂNGULO
 double calcularHipotenusa(double c1, double c2){
     double hipotenusa;
     hipotenusa = potencia(c1, 2) + potencia (c2, 2);
@@ -141,7 +141,7 @@ int tamanhoTexto(char *texto) {
     return cont - 1; 
 }
 
-// RETORNA 1 PARA NÚMERO NATURAL MAIOR QUE 1 E PRIMO, ASSIM COMO 0 PARA NÚMERO NÃO PRIMO 
+// RETORNA 1 CASO n SEJA UM NÚMERO NATURAL MAIOR QUE 1 E PRIMO, ASSIM COMO 0 PARA UM NÚMERO NÃO PRIMO 
     int verficarPrimo(int n){
     if(n > 1){
         int divisores; 
