@@ -4,6 +4,6 @@
  int main() {
     int vetor[] = {1,2,3};
     printf("A soma dos elementos do vetor é: %i \n", somarVetor(vetor, 3));
-    printf("A raíz da soma dos números nos vetores é: %.2f", extrairRaiz(somarVetor(vetor, 3))); 
+    printf("A raíz da soma dos números no vetor é: %.2f", extrairRaiz(somarVetor(vetor, 3))); 
     return 0;
 }
