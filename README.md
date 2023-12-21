@@ -22,7 +22,7 @@
 
 A biblioteca fornece uma variedade de funções úteis para realizar operações matemáticas e outras tarefas. Aqui estão descritas as principais funcionalidades da biblioteca:
 
-### Funções para Extração de Raízes
+### Função para Extração de Raízes
 
 #### `double extrairRaiz(double valor)`
 
@@ -47,15 +47,13 @@ Seno a r b um número inteiro.
 
 Esta função calcula a hipotenusa de um triângulo retângulo com catetos \(c1\) e \(c2\).
 
-### Outras Funções
-
 #### `double converterParaCelsius(double f)`
 
 Esta função converte uma temperatura de Fahrenheit para Celsius.
 
 #### `int tamanhoTexto(char *texto)`
 
-Esta função retorna o tamanho de uma string.
+Esta função retorna o tamanho de uma string passada como parâmetro. 
 
 #### `int verificarPrimo(int n)`
 
@@ -63,7 +61,7 @@ Esta função verifica se um número \(n\) é primo.
 
 #### `int somarVetor(int *vetor, int tamanho)`
 
-Esta função soma todos os elementos de um vetor inteiro.
+Esta função soma todos os elementos de um vetor inteiro, você deve passar o vetor e o tamanho do vetor como parâmetro. 
 
 #### Operações Básicas
 
