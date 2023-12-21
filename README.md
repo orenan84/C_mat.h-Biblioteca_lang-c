@@ -1,5 +1,6 @@
 
 # Documentação da Biblioteca
+## O que é? 
  Trata-se de uma biblioteca de minha autoria, que apenas com os usos das condições conhecidas (if, else, while, for), e operações básicas (+ , - , /, *) calcular coisas mais complexas como raízes e tamanho de uma string. 
 ## Como usar?
 <ol>
