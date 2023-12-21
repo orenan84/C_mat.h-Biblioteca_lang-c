@@ -70,7 +70,7 @@ Esta função realiza a subtração de dois números.
 
 #### `double valorDePI()`
 
-Esta função retorna o valor de \(\pi\), com 50 dígitos. 
+Esta função retorna o valor de \(\pi\)\, com 50 dígitos. 
 
 ## Observações
  - A biblioteca é apenas uma exemplo de como é possível sim, criar coisas sem a necessidade de usar bibliotecas e funções já prontas numa linguagem, mas que elas ajudam no desenvolvimento.
