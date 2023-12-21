@@ -5,10 +5,10 @@
 ## Como usar?
 <ol>
  <li>
-  Baixe o arquivo da biblioteca
+  Baixe o arquivo da biblioteca, e salve na mesma pasta do seu código C
  </li>
  <li>
-  Inclua o arquivo da biblioteca no seu código: 
+  Inclua o arquivo da biblioteca no seu código, da seguinte maneira: 
    <pre>
   #include "c_mat.h"
 </pre>
