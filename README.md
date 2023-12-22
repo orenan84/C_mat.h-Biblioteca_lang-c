@@ -41,7 +41,7 @@ Esta função calcula o fatorial de um número natural. \(x\).
 #### `int somarIntervalo(a, b)`
 
 Esta função retorna a soma de todos os números em um intervalo fechado \([a, b]\).
-Seno a r b um número inteiro. 
+Sendo a e b um número inteiro. 
 
 #### `double calcularHipotenusa(double c1, double c2)`
 
